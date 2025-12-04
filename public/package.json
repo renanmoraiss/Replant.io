@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vituzel/projeto-Replant.io.git"
+    "url": "git+https://github.com/renanmoraiss/Replant.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/vituzel/projeto-Replant.io/issues"
+    "url": "https://github.com/renanmoraiss/Replant.io/issues"
   },
-  "homepage": "https://github.com/vituzel/projeto-Replant.io#readme"
+  "homepage": "https://github.com/renanmoraiss/Replant.io#readme"
 }

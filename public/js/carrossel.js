@@ -10,7 +10,7 @@
           const response = await fetch(url);
           const json = await response.json();
 
-          plants = json.data.filter(p => p.image_url).slice(0,6).map(p => ({
+          plants = json.data.filter(p => p.image_url).slice(0,18).map(p => ({
             common_name: p.common_name || "Nome desconhecido",
             scientific_name: p.scientific_name || "Nome cientifício desconhecido",
             description: p.bibliography || "Sem descrição disponível",
